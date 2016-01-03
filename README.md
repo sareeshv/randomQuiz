@@ -1,0 +1,1 @@
+To generate the random quiz for technical details
